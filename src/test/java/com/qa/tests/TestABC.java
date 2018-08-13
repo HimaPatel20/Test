@@ -9,4 +9,8 @@ public class TestABC {
 		System.out.println("This is the Test");
 	}
 
+	@Test
+	public void addTest(){
+		System.out.println("This is the updated method in TestABC class");
+	}
 }
